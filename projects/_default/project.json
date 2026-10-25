@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1-draft",
+  "starter_version": "1",
+  "id": null,
+  "name": null,
+  "language": null,
+  "theme": null,
+  "goals": [],
+  "deck_colors": [],
+  "planned_scope": {
+    "card_count": null,
+    "layouts": [],
+    "frame_treatments": []
+  },
+  "set": {
+    "code": null,
+    "symbol": null,
+    "credits": null
+  },
+  "templates": [],
+  "assets": {
+    "card_back": null,
+    "branding": []
+  },
+  "print_settings": null
+}
